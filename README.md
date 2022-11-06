@@ -1,2 +1,2 @@
 # Schnellstart
-🇩🇪 Schnellstart zum Nutzen der "Thorsten" Stimme.
+🇩🇪 Schnellstart zur einfachen Verwendung der "Thorsten" Stimme.
